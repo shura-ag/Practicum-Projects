@@ -14,3 +14,4 @@ This repository consists of the projects that were made during Practicum Bootcam
 - `Project_8_AB_testing_erlikhman_final` - This is a project where we analyze the hypotheses that may help boost revenue of a big on-line store, perform A/B test and analyse
                                            its results 
 - `story_using_data_erlikhman_final` - The purpose of the analysis is to prepare market research using  open-source data on restaurants in LA.
+- `Integrated_2_erlikhman_final` - Purposes of the analysis are to find out the event funnel, determine how users reach the purchase stage and then to perform A/A/B test to    					     investigate whether the change in design of the fonts for the entire app. has an influence to users behavior.
