@@ -15,3 +15,4 @@ This repository consists of the projects that were made during Practicum Bootcam
                                            its results 
 - `story_using_data_erlikhman_final` - The purpose of the analysis is to prepare market research using  open-source data on restaurants in LA.
 - `Integrated_2_erlikhman_final` - Purposes of the analysis are to find out the event funnel, determine how users reach the purchase stage and then to perform A/A/B test to    					     investigate whether the change in design of the fonts for the entire app. has an influence to users behavior.
+- `Tableau project` - This folder contains files of the project executed in Tableau. You will find discription, presentation, link to the Tableau Public and the data file
