@@ -18,3 +18,5 @@ This repository consists of the projects that were made during Practicum Bootcam
 - `Tableau project` - This folder contains files of the project executed in Tableau. You will find discription, presentation, link to the Tableau Public and the data file
 - `predictions_erlikhman_final` - Being an analyst of the Model Fitness which is developing a customer interaction strategy based on analytical data, the purpose of the 
                                   analysis was to to find the ways how to flight churn with the help of ML algorithms.
+- `Battle_Always_DA_churn` - Project made for TripleTen Data Jam 2023. This project took 1st place in the competition. Analysis of factors of churn
+- `Final project` - This folder contains different projects made on filan stage of the course

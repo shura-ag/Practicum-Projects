@@ -1,0 +1,6 @@
+# This folfder consists of the 3 projects made during the funal stage of the course.<br>
+## Discription of the files
+- `final_project_AB_test_final` —  The analysis of  the results of A/B test. Purposes of the analysis are to analyze results of A/B test and to find out whether there is a 					   match with the expected results: within 14 days of signing up, users will show better conversion into product page views (the product_page 					   event), product card views (product_card) and purchases (purchase). At each of the stage of the funnel product_page → product_card → 					   purchase, there should be at least a 10% increase.
+- `final_project_SQL_final` - There are some tasks solved with the SQL queries inside Jupiter Notebook. So this is the way how to connect to the databese and to use SQL and                 			      Python together.
+- `Product Range Analysis (E-Commerce)_final` - The analysis the store's product range. Purposes of the analysis: identify the unique products, calculate the total number of 						        unique products and explore their diversity, examine the top-selling products based on the quantity sold and total revenue 							generated, identify the most common product categories, analyze the distribution of prices across different products
+
